@@ -1,0 +1,15 @@
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\bin\Debug\net6.0\Homework-2.exe
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\bin\Debug\net6.0\Homework-2.deps.json
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\bin\Debug\net6.0\Homework-2.runtimeconfig.json
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\bin\Debug\net6.0\Homework-2.dll
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\bin\Debug\net6.0\Homework-2.pdb
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.csproj.AssemblyReference.cache
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.AssemblyInfoInputs.cache
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.AssemblyInfo.cs
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.csproj.CoreCompileInputs.cache
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.dll
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\refint\Homework-2.dll
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.pdb
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\Homework-2.genruntimeconfig.cache
+C:\Programming\TU-Zadachi\Homework-2\Homework-2\obj\Debug\net6.0\ref\Homework-2.dll

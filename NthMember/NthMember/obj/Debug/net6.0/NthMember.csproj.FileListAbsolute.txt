@@ -1,0 +1,15 @@
+C:\Programming\TU-Zadachi\NthMember\NthMember\bin\Debug\net6.0\NthMember.exe
+C:\Programming\TU-Zadachi\NthMember\NthMember\bin\Debug\net6.0\NthMember.deps.json
+C:\Programming\TU-Zadachi\NthMember\NthMember\bin\Debug\net6.0\NthMember.runtimeconfig.json
+C:\Programming\TU-Zadachi\NthMember\NthMember\bin\Debug\net6.0\NthMember.dll
+C:\Programming\TU-Zadachi\NthMember\NthMember\bin\Debug\net6.0\NthMember.pdb
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.csproj.AssemblyReference.cache
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.AssemblyInfoInputs.cache
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.AssemblyInfo.cs
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.csproj.CoreCompileInputs.cache
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.dll
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\refint\NthMember.dll
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.pdb
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\NthMember.genruntimeconfig.cache
+C:\Programming\TU-Zadachi\NthMember\NthMember\obj\Debug\net6.0\ref\NthMember.dll
