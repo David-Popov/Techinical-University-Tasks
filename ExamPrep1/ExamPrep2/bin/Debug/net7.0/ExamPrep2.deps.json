@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExamPrep2/1.0.0": {
+        "runtime": {
+          "ExamPrep2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExamPrep2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

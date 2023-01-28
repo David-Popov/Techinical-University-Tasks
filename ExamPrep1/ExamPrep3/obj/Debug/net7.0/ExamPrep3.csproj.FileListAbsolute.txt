@@ -1,0 +1,15 @@
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\bin\Debug\net7.0\ExamPrep3.exe
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\bin\Debug\net7.0\ExamPrep3.deps.json
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\bin\Debug\net7.0\ExamPrep3.runtimeconfig.json
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\bin\Debug\net7.0\ExamPrep3.dll
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\bin\Debug\net7.0\ExamPrep3.pdb
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.csproj.AssemblyReference.cache
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.AssemblyInfoInputs.cache
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.AssemblyInfo.cs
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.csproj.CoreCompileInputs.cache
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.dll
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\refint\ExamPrep3.dll
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.pdb
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ExamPrep3.genruntimeconfig.cache
+C:\Programming\TU-Exercises\ExamPrep1\ExamPrep3\obj\Debug\net7.0\ref\ExamPrep3.dll
